@@ -2,13 +2,12 @@
   "name": "codes-front",
   "version": "0.1.0",
   "engines": {
-    "node": "14.17.6",
-    "npm": "6.14.15"
+    "node": "14.17.6"
   },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
+    
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
